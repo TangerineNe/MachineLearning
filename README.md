@@ -46,7 +46,7 @@ kWNN - k ближайших взвешенных соседей, где вес �
 -Номинирование
  
 -Симметрия
-![screenshot of sample](https://github.com/TangerineNe/MachineLearning/blob/main/images/симметрия.PNG)
+![screenshot of sample](https://github.com/TangerineNe/MachineLearning/blob/main/images/%D0%A1%D0%B8%D0%BC%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D1%8F.PNG)
 
 Часто используемые ядровые функции:
 
